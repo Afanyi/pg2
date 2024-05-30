@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/praktikum_3.dir/AbstractUI.cpp.o"
+  "CMakeFiles/praktikum_3.dir/AbstractUI.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Aktive.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Aktive.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Character.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Character.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Door.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Door.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/DungeonCrawler.cpp.o"
+  "CMakeFiles/praktikum_3.dir/DungeonCrawler.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Floor.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Floor.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Level.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Level.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Passive.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Passive.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Pit.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Pit.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Portal.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Portal.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Ramp.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Ramp.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Switch.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Switch.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/TerminalUI.cpp.o"
+  "CMakeFiles/praktikum_3.dir/TerminalUI.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Tile.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Tile.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/Wall.cpp.o"
+  "CMakeFiles/praktikum_3.dir/Wall.cpp.o.d"
+  "CMakeFiles/praktikum_3.dir/main.cpp.o"
+  "CMakeFiles/praktikum_3.dir/main.cpp.o.d"
+  "praktikum_3"
+  "praktikum_3.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/praktikum_3.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

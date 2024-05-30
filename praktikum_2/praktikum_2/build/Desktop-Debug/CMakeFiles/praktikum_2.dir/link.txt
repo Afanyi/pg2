@@ -1,0 +1,1 @@
+/usr/bin/clang++-18 -g CMakeFiles/praktikum_2.dir/main.cpp.o CMakeFiles/praktikum_2.dir/Tile.cpp.o CMakeFiles/praktikum_2.dir/Character.cpp.o CMakeFiles/praktikum_2.dir/Level.cpp.o CMakeFiles/praktikum_2.dir/DungeonCrawler.cpp.o CMakeFiles/praktikum_2.dir/AbstractUI.cpp.o -o praktikum_2 
