@@ -14,9 +14,9 @@
 ---
 
 ## Project Overview
-The **Dungeon Crawler** is an agile-based game project developed in multiple iterations. The game follows a **turn-based movement system**, where the player navigates through a dungeon filled with interactive tiles, NPCs, items, and multiple levels. Initially implemented as a **terminal-based application**, it has been upgraded to a **graphical interface using Qt**.
+The **Dungeon Crawler** is an agile-based game project developed in multiple iterations from praktikum 2 to praktikum 6 with raktikum2 and 3 terminal based nad the following GUI based. The game follows a **turn-based movement system**, where the player navigates through a dungeon filled with interactive tiles, NPCs, items, and multiple levels. Initially implemented as a **terminal-based application**, it has been upgraded to a **graphical interface using Qt**.
 
-The project focuses on **object-oriented design**, implementing inheritance, polymorphism, data structures, AI pathfinding, and file I/O.
+The project focuses on **object-oriented design**, implementing inheritance, polymorphism, data structures, Dijkstra pathfinding, and file I/O.
 
 ## Features
 - **Turn-based movement system**
@@ -34,7 +34,7 @@ The project focuses on **object-oriented design**, implementing inheritance, pol
 - **Qt** (Graphical User Interface)
 - **STL** (Data Structures)
 - **Graph Algorithms** (Pathfinding)
-- **JSON for Modern C++** (File I/O)
+- **JSON and text for Modern C++** (File I/O)
 
 ## Installation
 To install and run the Dungeon Crawler, follow these steps:
